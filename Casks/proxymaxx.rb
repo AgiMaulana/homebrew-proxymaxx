@@ -1,8 +1,8 @@
 # Rendered by .github/workflows/release.yml on every vX.Y.Z tag, then pushed to
 # AgiMaulana/homebrew-proxymaxx as Casks/proxymaxx.rb. Edit this file, not the tap.
 cask "proxymaxx" do
-  version "0.2.0"
-  sha256 "af51330745516f60de5ed32b3fbb3134155dc8aa605b2736e52dcf1e0aeb5dac"
+  version "0.3.0"
+  sha256 "1f60fb9bdef1df5507d5e68e195b20f780ceb6ba00dde82491534f362adecfa1"
 
   url "https://github.com/AgiMaulana/ProxyMaxx/releases/download/v#{version}/ProxyMaxx-v#{version}.dmg"
   name "ProxyMaxx"
